@@ -27,7 +27,8 @@ Result:
 
 Mock Interview,
 **EVIDENCE**
-![Mock Interview](Personality%20Assessment.PNG)
+[🔗 View Repository on GitHub](https://github.com/ZaeemDollie/Mock-Interview)
+![Mock Interview]
 
 REFLECTION: STAR TECHNIQUE
 Situation: 
