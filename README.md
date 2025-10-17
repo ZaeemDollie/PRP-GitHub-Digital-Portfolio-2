@@ -6,10 +6,10 @@ Business Communication,
 ![Business Communication](Business%20Communication.PNG)
 
 REFLECTION: STAR TECHNIQUE
-Situation: As in this exercise, I had to demonstarte good communication in a working environment.
-Task: I showed that I was able to communicate professionally through written and verbal messages such as emails and presentations.
-Action: I made sure that I used the appropriate tone, structure, and language for the work environment. I also made sure that I checked my work for clarity and grammar.
-Result: This exercise helped me improve how I communicate professionally. I learned how important it was to be confident, polite, and clear while communicating professionally.
+Situation: In this exercise, I had to demonstrate how professional communication is managed at work.
+Task: I was able to demonstrate how I would be able to communicate at work using messages like emails and presentations.
+Action: I made sure that I applied the proper tone, structure, and workplace language. I made sure that I proofread what I typed so that it was concise and grammatically correct.
+Result: The exercise helped me improve how I do professional communication.
 
 ---
 
@@ -18,10 +18,10 @@ Interview Skills,
 ![Interview Skills](Interview%20Skills.PNG)
 
 REFLECTION: STAR TECHNIQUE
-Situation: I had to prepare for a mock interview as a way of improving my employability skills.
-Task: The exercise had me  doing research on common interview questions and practicing giving structured answers.
-Action: I wrote responses according to  the STAR approach, worked on my body language, and practiced keeping eye contact and being confident.
-Result: I became more comfortable talking in an interview environment and learned to respond to questions more clearly and professionally.
+Situation: I had to have a mock interview because I was practicing for my employability.
+Task: Task was to memorize popular interview questions and rehearse responding in professional tone.
+Action: I wrote the answers out utilizing the STAR method, practiced body language, and practiced confidence and eye contact.
+Result: I was more confident when speaking in an interview scenario and became able to provide the answers more clearly and professionally.
 
 ---
 
@@ -31,10 +31,10 @@ Mock Interview,
 ![Mock Interview](Mock%20Interview.PNG)
 
 REFLECTION: STAR TECHNIQUE
-Situation: I had a mock interview in an attempt to experience what it would be like to have an actual job interview.
-Task: My goal was to appear confident, answer questions using the STAR method, and receive feedback on how well I performed.
-Action: I prepared rehearsing sample answers, and exercising communication and presentation skills.
-Result: I gained by learning to deal with nerves better. This showed me the areas where I needed to improve, specifically giving longer answers to what I had done.
+Situation: I had practiced having a mock interview while attempting to pretend that I was sitting in a real job interview.
+Task: I needed to be assertive, answer questions in the STAR method, and see how well I performed.
+Action: I practiced sample responses and acquired communication and presentation skills.
+Result: I gained from learning to manage nerves better. This was where I had to work on improving, i.e., providing more extensive responses to what I have been doing.
 
 ---
 
@@ -43,10 +43,10 @@ Professional Networking,
 ![Professional Networking](Professional%20Networking.PNG)
 
 REFLECTION: STAR TECHNIQUE
-Situation: I needed to learn the importance of networking and how it helps in career development.
-Task: The task involved creating a professional profile and connecting with others in my field.
-Action: I created a LinkedIn profile, completed my profile by adding my education and experience, and connected with peers, lecturers, and professionals.
-Result: I now understand how networking can open new doors and build a professional image. It also motivated me to maintain my online presence vibrant and professional.
+Situation: I had to learn why networking is important and how career development is enhanced.
+Task: The task was to establish a professional profile and connect with professional individuals in my career line.
+Action: I created a LinkedIn account, finished filling in my profile by putting experience and education, and networked with colleagues, lecturers, and professionals.
+Result: Now I have a knowledge regarding how networking follows new things and reflects a professional status.
 
 ---
 
@@ -55,10 +55,9 @@ Workplace Etiquette,
 ![Workplace Etiquette](Workplace%20Etiquette.PNG)
 
 REFLECTION: STAR TECHNIQUE
-Situation: I had to learn how to act and be courteous at work.
-Task: The goal was to learn how to act professionally and respectfully in the workplace.
-Action: I was involved in activities and scenarios that illustrated the importance of teamwork, being on time, and good communication.
-Result: I learned how professional behavior affects the work environment. I am now better prepared to act responsibly and respectfully in any working environment.
-
+Situation: I needed to have a knowledge of being and conducting well in work.
+Task: The task was to have a knowledge of conducting respectfully and professionally in work.
+Action: I did assignments and scenarios which reinforced the importance of teamwork, punctuality, and effective communication.
+Result: I knew how the behaviour in the workplace influences the workplace environment. I am better able to behave responsibly and respectfully in any workplace.
 
 ---
