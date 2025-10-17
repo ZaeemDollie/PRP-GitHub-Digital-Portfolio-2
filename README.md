@@ -39,7 +39,7 @@ Result:
 
 Professional Networking,
 **EVIDENCE**
-![Skills and Interests](Skills%20and%20Interests.PNG)
+![Professional Networking](Professional%20Networking.PNG)
 
 REFLECTION: STAR TECHNIQUE
 Situation: 
