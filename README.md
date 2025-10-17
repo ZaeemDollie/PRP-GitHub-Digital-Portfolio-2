@@ -27,7 +27,7 @@ Result:
 
 Mock Interview,
 **EVIDENCE**
-![Personality Assessment](Personality%20Assessment.PNG)
+![Mock Interview](Personality%20Assessment.PNG)
 
 REFLECTION: STAR TECHNIQUE
 Situation: 
