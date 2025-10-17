@@ -27,7 +27,7 @@ Result:
 
 Mock Interview,
 **EVIDENCE**
-[🔗 View Repository on GitHub](https://github.com/ZaeemDollie/Mock-Interview)
+[🔗 View Repository on GitHub](https://github.com/ZaeemDollie/Mock-Interview.git)
 ![Mock Interview]
 
 REFLECTION: STAR TECHNIQUE
