@@ -15,7 +15,7 @@ Result:
 
 Interview Skills,
 **EVIDENCE**
-![Create a CV](Create%20a%20CV.PNG)
+![Interview Skills](Interview%20Skills.PNG)
 
 REFLECTION: STAR TECHNIQUE
 Situation:  
