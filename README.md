@@ -3,7 +3,7 @@ GitHub Digital Portfolio 2
 
 Business Communication,
 **EVIDENCE**
-![CV Submission](CV%20Submission.PNG)
+![Business Communication](Business%20Communication.PNG)
 
 REFLECTION: STAR TECHNIQUE
 Situation: 
