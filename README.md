@@ -49,9 +49,9 @@ Result:
 
 ---
 
-CWorkplace Etiquette,
+Workplace Etiquette,
 **EVIDENCE**
-![Career Develpment](Career%20Develpment.PNG)
+![Workplace Etiquette](Workplace%20Etiquette.PNG)
 
 REFLECTION: STAR TECHNIQUE
 Situation: 
