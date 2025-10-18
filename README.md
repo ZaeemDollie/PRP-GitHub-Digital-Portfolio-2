@@ -6,10 +6,10 @@ Business Communication,
 ![Business Communication](Business%20Communication.PNG)
 
 REFLECTION: STAR TECHNIQUE
-Situation: In this exercise, I had to demonstrate how professional communication is managed at work.
-Task: I was able to demonstrate how I would be able to communicate at work using messages like emails and presentations.
-Action: I made sure that I applied the proper tone, structure, and workplace language. I made sure that I proofread what I typed so that it was concise and grammatically correct.
-Result: The exercise helped me improve how I do professional communication.
+- **Situation:** In this exercise, I had to demonstrate how professional communication is managed at work.
+- **Task:** I was able to demonstrate how I would be able to communicate at work using messages like emails and presentations.
+- **Action:** I made sure that I applied the proper tone, structure, and workplace language. I made sure that I proofread what I typed so that it was concise and grammatically correct.
+- **Result:** The exercise helped me improve how I do professional communication.
 
 ---
 
